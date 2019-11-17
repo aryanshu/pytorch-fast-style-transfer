@@ -12,7 +12,5 @@
 
 <p align = 'center'>
 <img src="images/output-images/output_video/1.gif" width=600 align="middle" >
-<img src="images/output-images/output_video/2.gif" alt="Snow" width=300 >
-<img src="images/output-images/output_video/3.gif" alt="Forest" width=300 >
-<img src="images/output-images/output_video/4.gif" alt="Mountains" width=300 >
-<img src="images/output-images/output_video/5.gif" alt="Mountains" width=300 >
+
+<img src="images/output-images/output_video/final.gif" alt="Mountains" width=600 >
