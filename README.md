@@ -19,7 +19,7 @@
 ## Applying fast style transfer on videos
 
 <p align = 'center'>
-<img src="images/output-images/output_video/1.gif" width=600 align="middle" >
+<img src="images/output-images/output_video/1.gif" width=600 height=310 >
 <br/><br/><br/><br/>
-<img src="images/output-images/output_video/final.gif" alt="Mountains" width=600 >
+<img src="images/output-images/output_video/final.gif" alt="Mountains" width=600 height=330 >
 </p>
