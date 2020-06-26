@@ -3,23 +3,18 @@
 ## Results
 ## Applying style transfer on images
 
-<p align = 'center'>
- 
-<img src="images/content-images/1.jpg" width=800 align="middle" >
-<br/><br/><br/><br/>
-</p>
 
-<p align = 'center'>
-<img src="images/output-images/final_image/3.jpg" alt="Snow" width=400 >
-<img src="images/output-images/final_image/4.jpg" alt="Forest" width=400 >
-<img src="images/output-images/final_image/8.jpg" alt="Mountains" width=400 >
-<img src="images/output-images/final_image/10.jpg" alt="Mountains" width=400 >
-</p>
+ 
 
 ## Applying fast style transfer on videos
 
-<p align = 'center'>
-<img src="images/output-images/output_video/1.gif" width=800 height=400 >
-<br/><br/><br/><br/>
-<img src="images/output-images/output_video/final.gif" alt="Mountains" width=800 height=430 >
-</p>
+
+*Content* | *Style* | *Style Transfer* 
+:---: | :---: | :---: | :---: |
+<img src = 'input(content) images/input_image.jpg' width ='300' > | <img src = 'style-images/Mandalorian.png' width =300> | <img src = 'images/100.png' width ='230' height = '125px'> | <img src ="output-images/Mandalorian.jpg" width="300px" >
+
+<img src = 'input(content) images/input_image.jpg' width ='300' > | <img src = 'style-images/rain-princess.jpg' width =300> | <img src = 'images/100.png' width ='230' height = '125px'> | <img src = "output-images/rain-princess.jpg" width="300px">
+
+<img src = 'input(content) images/input_image.jpg' width ='300' > | <img src = 'style-images/spider-verse.jpg' width =300> | <img src = 'images/100.png' width ='230' height = '125px'> | <img src ='output-images/spider-verse.jpg' width ="300px" >
+
+<img src = 'input(content) images/input_image.jpg' width ='300' > | <img src = 'style-images/udnie.jpg' width =300> | <img src = 'images/100.png' width ='230' height = '125px'> | <img src = "output-images/udnie.jpg" width="230px" height = '125px'>
