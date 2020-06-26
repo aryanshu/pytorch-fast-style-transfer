@@ -48,7 +48,7 @@ The Loss Network(Φ) is a pretrained VGG16 on the ImageNet Dataset.The loss netw
 
 *Content* | *Style* | *Style Transfer* 
 :---: | :---: | :---: | 
-<img src = 'Input(content) video/input_video.gif' width ='300px' height='200px'> | <img src = 'style-images/Mandalorian.png' width ='300px' height='200px'> |  <img src ="output-videos/output_videos/Mandalorian.gif" width="300px" height='200px'>
-<img src = 'Input(content) video/input_video.gif' width ='300px' height='200px'> | <img src = 'style-images/rain-princess.jpg' width ='300px' height='200px'> |  <img src = "output-videos/output_videos/rain-princess.gif" width="300px" height='200px'>
-<img src = 'Input(content) video/input_video.gif' width ='300px' height='200px' > | <img src = 'style-images/spider-verse.jpg' width ='300px' height='200px'> |  <img src ='output-videos/output_videos/spider-verse.gif' width ="300px" height='200px' >
-<img src = 'Input(content) video/input_video.gif' width ='300px' height='200px' > | <img src = 'style-images/udnie.jpg' width ='300px' height='200px'> |  <img src = "output-videos/output_videos/udnie.gif" width="300px" height='200px'>
+<img src = 'Input(content) video/input_video.gif' width ='300px' height='180px'> | <img src = 'style-images/Mandalorian.png' width ='300px' height='180px'> |  <img src ="output-videos/output_videos/Mandalorian.gif" width="300px" height='180px'>
+<img src = 'Input(content) video/input_video.gif' width ='300px' height='180px'> | <img src = 'style-images/rain-princess.jpg' width ='300px' height='180px'> |  <img src = "output-videos/output_videos/rain-princess.gif" width="300px" height='180px'>
+<img src = 'Input(content) video/input_video.gif' width ='300px' height='180px' > | <img src = 'style-images/spider-verse.jpg' width ='300px' height='180px'> |  <img src ='output-videos/output_videos/spider-verse.gif' width ="300px" height='180px' >
+<img src = 'Input(content) video/input_video.gif' width ='300px' height='180px' > | <img src = 'style-images/udnie.jpg' width ='300px' height='180px'> |  <img src = "output-videos/output_videos/udnie.gif" width="300px" height='180px'>
