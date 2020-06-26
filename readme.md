@@ -32,7 +32,7 @@ The Loss Network(Φ) is a pretrained VGG16 on the ImageNet Dataset.The loss netw
 * With 40k iterations (~2 epochs)
 * Optimizer used: Adam
 * Learning rate: 1e-3
-* Training takes ~4 hours on ColabGPU
+* Training takes ~4 hours on Tesla K80 GPU
 
 ## Results
 ## Applying style transfer on images
